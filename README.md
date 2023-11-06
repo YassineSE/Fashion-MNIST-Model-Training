@@ -6,3 +6,7 @@ This reposity contains a Jupyter Notebook demonstrating a Convolutional Neural N
 
 
 
+
+
+### Contributors:
+* Yassine SAHEB ETTABAA
